@@ -1,2 +1,2 @@
 # Exercicios-React-Native
-Os Exercícios foram desenvolvidos na IDE Snack Expo
+Os Exercícios foram desenvolvidos na IDE Snack Expo Online
